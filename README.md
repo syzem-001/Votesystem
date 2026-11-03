@@ -2,4 +2,4 @@
 ----------
 ![asd](src/assets/reacttree.png)
 
-![netlify:](https://votesystemprokejt.netlify.app/)
+[netlify:](https://votesystemprokejt.netlify.app/)
